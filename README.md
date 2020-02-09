@@ -15,6 +15,8 @@ What we are looking forward to resolve in this github is the counting from a lin
   <li>OpenCV</li>
   <li>Pillow</li>
 
+-------------------- 
+
 
 <p>For GPU:</p>
 
@@ -39,4 +41,4 @@ Command Linux Terminal or Anaconda Prompt:
 
   <li>python main.py -i path_input_video -n 1</li>
 
-Test Video Results: https://www.youtube.com/watch?v=Cc-dRiBepCU&feature=youtu.be
+Test Video Results:  [video](https://www.youtube.com/watch?v=Cc-dRiBepCU&feature=share&fbclid=IwAR1OLKduyi5_JQQ1txvYzepct_8NuZMKwbkyqF1et7Te0OX6cLvhfyeb1ww)
