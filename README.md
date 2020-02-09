@@ -3,3 +3,6 @@ A people detection using Yolo v3 and Deep Sort to count people who passes a cert
 
 This project is based on the Deep-Sort Algorithm usimg Yolo v3: https://github.com/Qidian213/deep_sort_yolov3
 What we are looking forward to resolve in this github is the counting from a line.
+
+
+Test Video Results: https://www.youtube.com/watch?v=Cc-dRiBepCU&feature=youtu.be
