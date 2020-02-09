@@ -11,7 +11,7 @@ What we are looking forward to resolve in this github is the counting from a lin
 
   <li>tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon</li>
   <li>NumPy</li>
-  <li>sklean</li>
+  <li>sklearn</li>
   <li>OpenCV</li>
   <li>Pillow</li>
 
@@ -22,7 +22,7 @@ What we are looking forward to resolve in this github is the counting from a lin
 
   <li>tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon</li>
   <li>NumPy</li>
-  <li>sklean</li>
+  <li>sklearn</li>
   <li>OpenCV</li>
   <li>Pillow</li>
 
