@@ -7,12 +7,13 @@ What we are looking forward to resolve in this github is the counting from a lin
 
 # Requirements
 For CPU:
-
-tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon
-NumPy
-sklean
-OpenCV
-Pillow
+<li>
+  tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon
+  NumPy
+  sklean
+  OpenCV
+  Pillow
+</li>
 
 For GPU:
 tensorflow-gpu>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon
