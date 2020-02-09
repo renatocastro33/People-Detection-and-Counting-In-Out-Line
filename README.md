@@ -38,7 +38,7 @@ Drive Link for Yolov3 weights: https://drive.google.com/file/d/1uvXFacPnrSMw6ldW
 # Test
 
 Command Linux Terminal or Anaconda Prompt: 
-'''
+'''python
   python main.py -i path_input_video -n 1
 '''
 Test Video Results:  [video](https://www.youtube.com/watch?v=Cc-dRiBepCU&feature=share&fbclid=IwAR1OLKduyi5_JQQ1txvYzepct_8NuZMKwbkyqF1et7Te0OX6cLvhfyeb1ww)
