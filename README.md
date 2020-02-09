@@ -7,23 +7,27 @@ What we are looking forward to resolve in this github is the counting from a lin
 
 # Requirements
 For CPU:
-<li>
-  tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon
-  NumPy
-  sklean
-  OpenCV
-  Pillow
-</li>
+
+  <li>tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon</li>
+  <li>NumPy</li>
+  <li>sklean</li>
+  <li>OpenCV</li>
+  <li>Pillow</li>
+
 
 For GPU:
-tensorflow-gpu>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon
-NumPy
-sklean
-OpenCV
-Pillow
+
+  <li>tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon</li>
+  <li>NumPy</li>
+  <li>sklean</li>
+  <li>OpenCV</li>
+  <li>Pillow</li>
 # Download pre-trained weights
 
 # Test
 
+Command Linux Terminal or Anaconda Prompt: 
+
+  <li>python main.py -i path_input_video -n 1</li>
 
 Test Video Results: https://www.youtube.com/watch?v=Cc-dRiBepCU&feature=youtu.be
