@@ -26,8 +26,8 @@ For GPU:
 
 Before testing the code you must download the weights for the deep learning model for the trackers and the yoloV3.
 
-Drive Link: https://drive.google.com/open?id=1rjZpYVorVCDyx25BkkQ0rdr2wdnYM71X
-
+Drive Link for Deep Sort Weights : https://drive.google.com/open?id=1rjZpYVorVCDyx25BkkQ0rdr2wdnYM71X
+Drive Link for Yolov3 weights: https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view
  <li>You must put the both files into the model_data folder</li>
  
 # Test
