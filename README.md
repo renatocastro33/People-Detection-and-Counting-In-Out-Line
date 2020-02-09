@@ -6,7 +6,8 @@ This project is based on the Deep-Sort Algorithm usimg Yolo v3: https://github.c
 What we are looking forward to resolve in this github is the counting from a line.
 
 # Requirements
-For CPU:
+
+<p>For CPU:</p>
 
   <li>tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon</li>
   <li>NumPy</li>
@@ -15,19 +16,21 @@ For CPU:
   <li>Pillow</li>
 
 
-For GPU:
+<p>For GPU:</p>
 
   <li>tensorflow>=1.4.0 (not compatible with tf 2.0) #This will be resolved soon</li>
   <li>NumPy</li>
   <li>sklean</li>
   <li>OpenCV</li>
   <li>Pillow</li>
+  
 # Download pre-trained weights
 
 Before testing the code you must download the weights for the deep learning model for the trackers and the yoloV3.
 
 Drive Link for Deep Sort Weights : https://drive.google.com/open?id=1rjZpYVorVCDyx25BkkQ0rdr2wdnYM71X
 Drive Link for Yolov3 weights: https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view
+
  <li>You must put the both files into the model_data folder</li>
  
 # Test
