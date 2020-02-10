@@ -33,7 +33,7 @@ Before testing the code you must download the weights for the deep learning mode
 <li>Drive Link for Deep Sort Weights : https://drive.google.com/open?id=1rjZpYVorVCDyx25BkkQ0rdr2wdnYM71X</li>
 <li>Drive Link for Yolov3 weights: https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view</li>
 
- <li>You must put the both files into the model_data folder</li>
+ <li>You must put both files into the model_data folder</li>
  
 # Test
 
